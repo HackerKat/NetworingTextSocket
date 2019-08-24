@@ -1,0 +1,7 @@
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\ChatAppReloaded\bin\Debug\ChatAppReloaded.exe.config
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\ChatAppReloaded\bin\Debug\ChatAppReloaded.exe
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\ChatAppReloaded\bin\Debug\ChatAppReloaded.pdb
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\ChatAppReloaded\obj\Debug\ChatAppReloaded.csproj.CoreCompileInputs.cache
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\ChatAppReloaded\obj\Debug\ChatAppReloaded.exe
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\ChatAppReloaded\obj\Debug\ChatAppReloaded.pdb
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\ChatAppReloaded\obj\Debug\ChatAppReloaded.csprojAssemblyReference.cache

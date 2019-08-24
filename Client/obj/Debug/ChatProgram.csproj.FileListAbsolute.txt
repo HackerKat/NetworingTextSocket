@@ -1,0 +1,7 @@
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\Client\bin\Debug\Client.exe.config
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\Client\bin\Debug\Client.exe
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\Client\bin\Debug\Client.pdb
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\Client\obj\Debug\ChatProgram.csprojAssemblyReference.cache
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\Client\obj\Debug\ChatProgram.csproj.CoreCompileInputs.cache
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\Client\obj\Debug\Client.exe
+D:\Documents\University\Bachelor\Testing\Sockets\NetworkingTestSocket\Client\obj\Debug\Client.pdb
